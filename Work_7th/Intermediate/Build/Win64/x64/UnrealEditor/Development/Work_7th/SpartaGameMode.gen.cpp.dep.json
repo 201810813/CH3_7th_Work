@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\seung\\documents\\github\\ch3_7th_work\\work_7th\\intermediate\\build\\win64\\unrealeditor\\inc\\work_7th\\uht\\spartagamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\seung\\documents\\github\\ch3_7th_work\\work_7th\\intermediate\\build\\win64\\x64\\work_7theditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\seung\\documents\\github\\ch3_7th_work\\work_7th\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\work_7th\\definitions.work_7th.h",
+            "c:\\users\\seung\\documents\\github\\ch3_7th_work\\work_7th\\source\\work_7th\\public\\spartagamemode.h",
+            "c:\\users\\seung\\documents\\github\\ch3_7th_work\\work_7th\\source\\work_7th\\public\\spartaplayercontroller.h",
+            "c:\\users\\seung\\documents\\github\\ch3_7th_work\\work_7th\\intermediate\\build\\win64\\unrealeditor\\inc\\work_7th\\uht\\spartaplayercontroller.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemode.generated.h",
+            "c:\\users\\seung\\documents\\github\\ch3_7th_work\\work_7th\\intermediate\\build\\win64\\unrealeditor\\inc\\work_7th\\uht\\spartagamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\seung\\documents\\unreal projects\\work_7th\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\work_7th\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\seung\\documents\\unreal projects\\work_7th\\intermediate\\build\\win64\\x64\\work_7theditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\seung\\documents\\unreal projects\\work_7th\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\work_7th\\definitions.work_7th.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

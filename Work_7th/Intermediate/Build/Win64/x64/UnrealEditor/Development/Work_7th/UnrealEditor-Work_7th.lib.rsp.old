@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Work_7th.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\seung\Documents\Unreal Projects\Work_7th\Intermediate\Build\Win64\x64\Work_7thEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\seung\Documents\Unreal Projects\Work_7th\Intermediate\Build\Win64\x64\UnrealEditor\Development\Work_7th\SpartaGameMode.gen.cpp.obj"
+"C:\Users\seung\Documents\Unreal Projects\Work_7th\Intermediate\Build\Win64\x64\UnrealEditor\Development\Work_7th\SpartaPawn.gen.cpp.obj"
+"C:\Users\seung\Documents\Unreal Projects\Work_7th\Intermediate\Build\Win64\x64\UnrealEditor\Development\Work_7th\SpartaPlayerController.gen.cpp.obj"
+"C:\Users\seung\Documents\Unreal Projects\Work_7th\Intermediate\Build\Win64\x64\UnrealEditor\Development\Work_7th\Work_7th.init.gen.cpp.obj"
+"C:\Users\seung\Documents\Unreal Projects\Work_7th\Intermediate\Build\Win64\x64\UnrealEditor\Development\Work_7th\Work_7th.cpp.obj"
+"C:\Users\seung\Documents\Unreal Projects\Work_7th\Intermediate\Build\Win64\x64\UnrealEditor\Development\Work_7th\SpartaGameMode.cpp.obj"
+"C:\Users\seung\Documents\Unreal Projects\Work_7th\Intermediate\Build\Win64\x64\UnrealEditor\Development\Work_7th\SpartaPawn.cpp.obj"
+"C:\Users\seung\Documents\Unreal Projects\Work_7th\Intermediate\Build\Win64\x64\UnrealEditor\Development\Work_7th\SpartaPlayerController.cpp.obj"
+"C:\Users\seung\Documents\Unreal Projects\Work_7th\Intermediate\Build\Win64\x64\UnrealEditor\Development\Work_7th\PerModuleInline.gen.cpp.obj"
+"C:\Users\seung\Documents\Unreal Projects\Work_7th\Intermediate\Build\Win64\x64\UnrealEditor\Development\Work_7th\Default.rc2.res"
+/OUT:"C:\Users\seung\Documents\Unreal Projects\Work_7th\Intermediate\Build\Win64\x64\UnrealEditor\Development\Work_7th\UnrealEditor-Work_7th.lib"

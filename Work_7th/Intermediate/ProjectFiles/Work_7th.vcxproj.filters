@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Work_7th.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Work_7th.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Work_7thEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\Work_7th.uproject.DotSettings.user" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Work_7th">
+      <UniqueIdentifier>{CB06C831-D860-3D44-93EF-C2CA0E7B39B6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Work_7th\Work_7th.Build.cs">
+      <Filter>Source\Work_7th</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Work_7th\Work_7th.cpp">
+      <Filter>Source\Work_7th</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Work_7th\Work_7th.h">
+      <Filter>Source\Work_7th</Filter>
+    </ClCompile>
+    <Filter Include="Source\Work_7th\Private">
+      <UniqueIdentifier>{49A1DD6C-F1F9-3390-90C2-FD55873E8870}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Work_7th\Private\SpartaGameMode.cpp">
+      <Filter>Source\Work_7th\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Work_7th\Private\SpartaPawn.cpp">
+      <Filter>Source\Work_7th\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Work_7th\Private\SpartaPlayerController.cpp">
+      <Filter>Source\Work_7th\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Work_7th\Public">
+      <UniqueIdentifier>{E0A02E22-2E33-3E17-AB77-7C5F051672C9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Work_7th\Public\SpartaGameMode.h">
+      <Filter>Source\Work_7th\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Work_7th\Public\SpartaPawn.h">
+      <Filter>Source\Work_7th\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Work_7th\Public\SpartaPlayerController.h">
+      <Filter>Source\Work_7th\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
